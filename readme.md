@@ -7,7 +7,9 @@ Se utiliza la libreria mongodb  (nativa) y express con CORS.
 Crear fichero `.env` con las siguientes variables.
 
 DB_USER=USUARIO
+
 DB_PASS=CONTRASEÑA
+
 
 #### Start: 
 
