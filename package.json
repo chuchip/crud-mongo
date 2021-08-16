@@ -1,0 +1,23 @@
+{
+  "name": "crud-mongo",
+  "version": "1.0.0",
+  "description": "Crud prueba para mongo en atlas",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js",
+    "dev": "nodemon start.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chuchip",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongodb": "^4.1.0",
+    "winston": "^3.3.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
